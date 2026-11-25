@@ -1,0 +1,4 @@
+segmento,productos,porcentaje_productos,precio_promedio,variacion_promedio,mayoristas_promedio,unidad_venta_promedio
+Precio alto y baja cobertura,3116,41.4,8504.76,0.08,2.03,5.36
+Precio medio y alta cobertura,2770,36.8,5910.71,0.1,3.37,10.35
+Precio bajo y grandes unidades,1644,21.8,1967.46,0.08,2.34,47.98
