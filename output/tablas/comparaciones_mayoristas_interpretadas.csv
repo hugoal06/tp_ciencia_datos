@@ -1,0 +1,11 @@
+contraste,diferencia_porcentual,p_value,significativo
+Hipermercado Makro - Maxiconsumo,9.63,1.5338952330523625e-11,Sí
+Hipermercado Makro - Mayorista Yaguar,16.48,1.5338952330523625e-11,Sí
+Hipermercado Makro - NINI Centro de compras mayoristas,21.23,1.5338952330523625e-11,Sí
+Hipermercado Makro - Supermayorista Vital,14.74,1.5338952330523625e-11,Sí
+Maxiconsumo - Mayorista Yaguar,6.25,3.6006642112340614e-11,Sí
+Maxiconsumo - NINI Centro de compras mayoristas,10.58,1.5338952330523625e-11,Sí
+Maxiconsumo - Supermayorista Vital,4.66,1.5469514558219544e-11,Sí
+Mayorista Yaguar - NINI Centro de compras mayoristas,4.07,3.077373592252908e-5,Sí
+Mayorista Yaguar - Supermayorista Vital,-1.5,0.5136408784431539,No
+NINI Centro de compras mayoristas - Supermayorista Vital,-5.35,1.5383028184601244e-11,Sí

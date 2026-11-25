@@ -1,0 +1,11 @@
+Variable,Descripción,Tipo de variable,Valores nulos,% de nulos
+mayorista,Nombre comercial del mayorista,Categórica,0,0
+id_sucursal_unico,Identificador único de cada sucursal,Categórica identificadora,0,0
+sucursales_nombre,Nombre de la sucursal,Categórica,0,0
+sucursales_localidad,Localidad de la Provincia de Buenos Aires,Categórica,0,0
+id_producto,Código identificador del producto,Categórica identificadora,0,0
+productos_descripcion,Descripción comercial del producto,Categórica,0,0
+productos_marca,Marca informada del producto,Categórica,0,0
+precio_unitario_bulto_por_unidad_venta_con_iva,Precio unitario del producto con IVA,Numérica continua,0,0
+unidad_venta,Cantidad de unidades contenidas en el bulto,Numérica discreta,0,0
+precio_bulto_con_iva,Precio total del bulto con IVA,Numérica continua,42,0.02
